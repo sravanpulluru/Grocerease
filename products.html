@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - GrocerEase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="main-header">
+        <nav class="nav-main">
+            <div class="nav-left">
+                <a href="index.html" class="logo">
+                    🛒 GrocerEase
+                </a>
+            </div>
+            <div class="nav-center">
+                <div class="nav-search-group">
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="search-box nav-search-input" 
+                        placeholder="Search for groceries..."
+                        aria-label="Search products"
+                    >
+                    <select
+                        id="categoryFilter"
+                        class="filter-select nav-category-select"
+                        aria-label="Filter by category"
+                    >
+                        <option value="all">All categories</option>
+                        <option value="Fruits">Fruits</option>
+                        <option value="Vegetables">Vegetables</option>
+                        <option value="Dairy">Dairy</option>
+                        <option value="Bakery">Bakery</option>
+                        <option value="Beverages">Beverages</option>
+                        <option value="Snacks">Snacks</option>
+                        <option value="Household">Household</option>
+                        <option value="Personal Care">Personal Care</option>
+                        <option value="Others">Others</option>
+                    </select>
+                </div>
+            </div>
+            <div class="nav-right">
+                <div class="nav-auth">
+                    <button class="btn btn-ghost">Login</button>
+                    <button class="btn btn-small">Sign Up</button>
+                </div>
+                <a href="cart.html" class="cart-link nav-cart">
+                    <span>Cart</span>
+                    <span class="cart-badge" style="display: none;">0</span>
+                </a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container">
+        <div class="products-header">
+            <h1>Browse Our Products</h1>
+            <p class="products-subtitle">Discover fresh groceries for your everyday needs</p>
+        </div>
+
+        <div class="products-grid" id="productsGrid">
+            <!-- Products will be rendered here by JavaScript -->
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-column">
+                <h3>GrocerEase</h3>
+                <p>Your everyday grocery partner with fast and fresh delivery.</p>
+            </div>
+            <div class="footer-column">
+                <h4>Shop</h4>
+                <ul>
+                    <li><a href="products.html">All Products</a></li>
+                    <li><a href="products.html">Fruits &amp; Vegetables</a></li>
+                    <li><a href="products.html">Dairy &amp; Bakery</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h4>Support</h4>
+                <ul>
+                    <li><a href="#">Help Center</a></li>
+                    <li><a href="#">Shipping &amp; Delivery</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 GrocerEase. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="data/products.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+

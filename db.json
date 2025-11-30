@@ -1,0 +1,246 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fresh Bananas",
+      "quantity": "1 kg",
+      "category": "Fruits",
+      "price": 55,
+      "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=600&h=600&fit=crop&auto=format",
+      "description": "Fresh, ripe bananas perfect for your daily nutrition"
+    },
+    {
+      "id": 2,
+      "name": "Red Apples",
+      "quantity": "1 kg",
+      "category": "Fruits",
+      "price": 120,
+      "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=600&h=600&fit=crop&auto=format",
+      "description": "Crisp and juicy red apples, rich in vitamins"
+    },
+    {
+      "id": 3,
+      "name": "Juicy Oranges",
+      "quantity": "1 kg",
+      "category": "Fruits",
+      "price": 95,
+      "image": "https://images.unsplash.com/photo-1580052614034-c55d20bfee3b?w=600&h=600&fit=crop&auto=format",
+      "description": "Sweet and tangy oranges packed with Vitamin C"
+    },
+    {
+      "id": 7,
+      "name": "Whole Milk",
+      "quantity": "1 L",
+      "category": "Dairy",
+      "price": 50,
+      "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=600&h=600&fit=crop&auto=format",
+      "description": "Fresh whole milk, rich and creamy"
+    },
+    {
+      "id": 8,
+      "name": "Greek Yogurt",
+      "quantity": "500 g",
+      "category": "Dairy",
+      "price": 85,
+      "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&h=600&fit=crop&auto=format",
+      "description": "Creamy Greek yogurt, high in protein"
+    },
+    {
+      "id": 9,
+      "name": "Brown Bread",
+      "quantity": "400 g",
+      "category": "Bakery",
+      "price": 40,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=600&fit=crop&auto=format",
+      "description": "Fresh brown bread, soft and nutritious"
+    },
+    {
+      "id": 10,
+      "name": "Butter Cookies",
+      "quantity": "300 g",
+      "category": "Snacks",
+      "price": 110,
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=600&h=600&fit=crop&auto=format",
+      "description": "Delicious butter cookies, perfect for tea time"
+    },
+    {
+      "id": 11,
+      "name": "Orange Juice",
+      "quantity": "1 L",
+      "category": "Beverages",
+      "price": 95,
+      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=600&h=600&fit=crop&auto=format",
+      "description": "Fresh orange juice, 100% natural"
+    },
+    {
+      "id": 12,
+      "name": "Basmati Rice",
+      "quantity": "1 kg",
+      "category": "Household",
+      "price": 160,
+      "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&h=600&fit=crop&auto=format",
+      "description": "Premium basmati rice, long grain and aromatic"
+    },
+    {
+      "id": 13,
+      "name": "Wheat Flour",
+      "quantity": "1 kg",
+      "category": "Household",
+      "price": 70,
+      "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=600&h=600&fit=crop&auto=format",
+      "description": "Fine wheat flour for all your baking needs"
+    },
+    {
+      "id": 14,
+      "name": "Dishwash Liquid",
+      "quantity": "500 ml",
+      "category": "Household",
+      "price": 90,
+      "image": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=600&h=600&fit=crop&auto=format",
+      "description": "Effective dishwashing liquid, cuts through grease"
+    },
+    {
+      "id": 15,
+      "name": "Shampoo",
+      "quantity": "180 ml",
+      "category": "Personal Care",
+      "price": 140,
+      "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?w=600&h=600&fit=crop&auto=format",
+      "description": "Nourishing shampoo for healthy hair"
+    },
+    {
+      "id": "1f25",
+      "name": "Onions",
+      "quantity": "1 kg",
+      "category": "Vegetables",
+      "price": "49.99",
+      "image": "https://images.unsplash.com/photo-1620574387735-3624d75b2dbc?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "\" Fresh Onions , take and Enjoy \""
+    },
+    {
+      "id": "c11b",
+      "name": "Potatoes",
+      "quantity": "1 kg",
+      "category": "Vegetables",
+      "price": "69.96",
+      "image": "https://plus.unsplash.com/premium_photo-1675365779531-031dfdcdf947?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "\" Fresh Potatoes from farm \""
+    },
+    {
+      "id": "3e4c",
+      "name": "Tomatoes",
+      "quantity": "1 kg",
+      "category": "Vegetables",
+      "price": "40",
+      "image": "https://images.unsplash.com/photo-1558818498-28c1e002b655?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "\"Fresh Tomatoes From Farm \""
+    }
+  ],
+  "orders": [
+    {
+      "id": "750f",
+      "name": "poorna chandu",
+      "email": "chandupoorna40@gmail.com",
+      "phone": "6304567899",
+      "address": "srm university.",
+      "city": "vijayawada",
+      "pincode": "500001",
+      "paymentMethod": "cash",
+      "items": [
+        {
+          "id": "3",
+          "name": "Juicy Oranges",
+          "quantity": "1 kg",
+          "category": "Fruits",
+          "price": 95,
+          "image": "https://images.unsplash.com/photo-1547514701-42782101795e?w=600&h=600&fit=crop&auto=format",
+          "qty": 1
+        },
+        {
+          "id": 1,
+          "name": "Fresh Bananas",
+          "quantity": "1 kg",
+          "category": "Fruits",
+          "price": 55,
+          "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=600&h=600&fit=crop&auto=format",
+          "description": "Fresh, ripe bananas perfect for your daily nutrition",
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "name": "Red Apples",
+          "quantity": "1 kg",
+          "category": "Fruits",
+          "price": 120,
+          "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=600&h=600&fit=crop&auto=format",
+          "description": "Crisp and juicy red apples, rich in vitamins",
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "name": "Juicy Oranges",
+          "quantity": "1 kg",
+          "category": "Fruits",
+          "price": 95,
+          "image": "https://images.unsplash.com/photo-1580052614034-c55d20bfee3b?w=600&h=600&fit=crop&auto=format",
+          "description": "Sweet and tangy oranges packed with Vitamin C",
+          "qty": 1
+        }
+      ],
+      "subtotal": 365,
+      "tax": 29.2,
+      "delivery": 50,
+      "total": 444.2,
+      "date": "2025-11-30T05:44:50.217Z",
+      "status": "pending"
+    },
+    {
+      "id": "52ff",
+      "name": "sathwik",
+      "email": "yehoshuasedrain@gmail.com",
+      "phone": "6304638899",
+      "address": "Srm universty",
+      "city": "vijayawada",
+      "pincode": "500001",
+      "paymentMethod": "cash",
+      "items": [
+        {
+          "id": "3e4c",
+          "name": "Tomatoes",
+          "quantity": "1 kg",
+          "category": "Vegetables",
+          "price": "40",
+          "image": "https://images.unsplash.com/photo-1558818498-28c1e002b655?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "\"Fresh Tomatoes From Farm \"",
+          "qty": 2
+        },
+        {
+          "id": "c11b",
+          "name": "Potatoes",
+          "quantity": "1 kg",
+          "category": "Vegetables",
+          "price": "69.96",
+          "image": "https://plus.unsplash.com/premium_photo-1675365779531-031dfdcdf947?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "\" Fresh Potatoes from farm \"",
+          "qty": 2
+        },
+        {
+          "id": "1f25",
+          "name": "Onions",
+          "quantity": "1 kg",
+          "category": "Vegetables",
+          "price": "49.99",
+          "image": "https://images.unsplash.com/photo-1620574387735-3624d75b2dbc?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "\" Fresh Onions , take and Enjoy \"",
+          "qty": 2
+        }
+      ],
+      "subtotal": 319.9,
+      "tax": 25.592,
+      "delivery": 50,
+      "total": 395.49199999999996,
+      "date": "2025-11-30T06:17:46.300Z",
+      "status": "pending"
+    }
+  ]
+}
